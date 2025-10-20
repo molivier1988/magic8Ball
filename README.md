@@ -24,10 +24,6 @@ A master list of eight ball radom responses can be found @ https://en.wikipedia.
 
 Run in browser console
 
-```javascript
-playGame();
-```
-
 ### Dependencies
 
 App needs to run in browser of your choice. Running in VS Code using `node bearHumanGun.js` will return an error because of the use of the `prompt()` method
